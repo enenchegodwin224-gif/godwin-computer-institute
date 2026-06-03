@@ -1,0 +1,94 @@
+section {
+    background: gray;
+}
+div li {
+    border: 6px solid blue;
+    display: inline;
+    
+}
+body {
+    background-color: gray;
+    margin: auto;
+}
+
+ #welcome {
+    padding-top: 1px;
+    padding-bottom: 1px;
+} 
+
+header {
+    padding-top: 40px;
+    padding-bottom: 70px;
+    text-align: center;
+    font-size: 40px;
+    background-image: url(image/ga.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+#tutorials {
+    text-align: left;
+    font-size: 60px;
+    margin-left: 20px;
+}
+
+/* section */
+
+#introduction {
+    background: wheat;
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.css {
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-size: 35px;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#web li{
+   border: 10px solid rgb(102, 207, 102) ;
+   display: inline-block;
+   background-color: green;
+   color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#element {
+    background: wheat;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4{
+    margin-left: 20px;
+}
+
+ /* footer */
+ footer {
+   background: rgb(59, 53, 53);
+   text-align: center;
+   padding-bottom: 40px;
+   padding-top: 40px;
+   color: white;
+ }
+  #God li{
+   text-align: left;
+   display: inline-block;
+   margin-left: 30px;
+   font-size: 15px;
+   border-color: rgba(41, 34, 34, 0);
+ }

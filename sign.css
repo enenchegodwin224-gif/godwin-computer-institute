@@ -1,0 +1,137 @@
+body {
+    background-image: url(image/Untitled-2.jpg);
+    background-color: rgba(0, 0, 139, 0.26);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 139, 0.582);
+    background-blend-mode: soft-light;
+}
+
+
+#mango {
+    float: right;
+    background-color: white;
+    padding-left: 1.5%;
+    padding-right: 2%;
+    margin-top: -3%;
+    border-radius: 20px;
+    padding-bottom: 9px;
+    
+}
+
+/* paragraph style */
+#woman {
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.baby {
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mummy {
+     color: white;
+    font-size: 28px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.daddy {
+    color: white;
+    font-size: 26px;
+    margin-left: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sister {
+    color: white;
+    font-size: 26px;
+    margin-left: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ p {
+   font-size: 40px;
+   text-align: center;
+ }
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+
+input {
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+::placeholder {
+    font-size: 20px;
+    padding-left: 10px;
+    opacity: 30%;
+}
+
+label {
+    margin-left: 15px;
+    font-size: 25px;
+}
+
+form {
+    margin-right: 20px;
+}
+
+button {
+    background-color: white;
+    font-size: 40px;
+    cursor: pointer;
+    border-color: rgba(0, 0, 139, 0.582);
+    border-width: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(65, 65, 221);
+    border-radius: 20px;
+}
+
+#address {
+    margin-left: 25%;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+/* facebook button */
+#hot {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 20%;
+    color: blue;
+}
+
+/* sign in button */
+#cloud {
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 139, 0.582);
+    width: 100%;
+    border-color: rgba(0, 0, 139, 0.281);
+}
+
+/* Google button */
+span {
+    color: rgb(28, 115, 165);
+}
+#span {
+    color: rgb(236, 5, 5);
+}
+#see {
+    color: #ffff00;
+} 
+#eye {
+    color: rgb(60, 153, 60);
+}
+#ear {
+    color: rgb(236, 5, 5);
+}

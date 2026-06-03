@@ -1,0 +1,121 @@
+/** body style **/
+body {
+    background: white;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+/** header **/
+header {
+    background-color: white;
+    text-align: right;
+    padding: 2px;
+}
+
+#yellow {
+   text-align: center;
+   text-align: justify;
+}
+
+/* BUTTON */
+button {
+   color: white;
+   background-color: green;
+   padding: 5px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+.button {
+   font-size: 20px;
+   color: white;
+   background-color: blue;
+   border: solid 10px blue;
+   cursor: pointer;
+   border-radius: 10px;
+   margin-top: 20px;
+}
+#link {
+   text-decoration: none;
+   color: blue;
+   :hover{
+      color: red;
+   }
+}
+
+.heading {
+   background-color: rgb(3, 3, 24);
+   padding: 3%;
+   margin: -15px;
+   text-align: center;
+}
+
+.Jesus {
+   color: blue;
+   text-align: left;
+   float: left;
+}
+
+#span {
+   color: blue;
+   text-align: center;
+}
+
+/* heading lists */
+ .unordered li {
+   list-style-type: none;
+   display: inline-block;
+   margin: 20px;
+ }
+.learntocode  {
+   text-align: center;
+}
+#strong {
+    color: rgba(255, 0, 0, 0.473);
+    text-align: center;
+ }
+
+#from {
+   float: right;
+   text-align: justify;
+}
+
+ /** section **/
+ section {
+    font-size: 22px;
+    margin: 15px;
+ }
+  h1 {
+     font-size: 40px;
+    margin: 20px;
+    text-align: center;
+  }
+ .div li {
+    list-style-type: none;
+    display: inline-block;
+    background-color: white;
+    margin: 10px;
+    color: rgb(2, 6, 248);
+    text-align: center;
+    padding: 5px;
+ }
+
+ /* footer */
+ footer {
+   background: rgb(59, 53, 53);
+   text-align: center;
+   padding-bottom: 40px;
+   padding-top: 40px;
+   font-size: 15px;
+ }
+ #God li{
+   text-align: left;
+   display: inline-block;
+   margin-left: 30px;
+   font-size: 15px;
+ }
+
+
+
+
+
